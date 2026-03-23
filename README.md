@@ -1,5 +1,6 @@
 # My Student Portfolio
 
-A simple project to learn Git and GitHub.# My Student Portfolio
+A project to learn Git and GitHub and get hands-on experience with all essential Git operations
 
-A simple project to learn Git.
+Goals: Master Git and GitHub!
+
